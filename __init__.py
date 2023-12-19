@@ -1,3 +1,3 @@
-from .widgets.autocomplete import CTkAutoComplete
-from .widgets.reload import CTkReload
-from .widgets.searchbar import CTkSearchConfig
+from .autocomplete import CTkAutoComplete
+from .reload import CTkReload
+from .searchbar import CTkSearchConfig
